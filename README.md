@@ -15,8 +15,7 @@ https://github.com/navya0704/online-fraud-detection
 
 🎥 Demo (Optional)
 
-📺 Demo Video Link:
-(Add your video link if available)
+
 
 🛠️ Technologies Used
 
@@ -66,6 +65,7 @@ Online-Fraud-Detection
 ├── templates/
 ├── requirements.txt
 └── README.md
+
 👩‍💻 Author
 
 Navya Koppineti
