@@ -13,8 +13,6 @@ Improve financial security using AI
 🚀 GitHub Link:
 https://github.com/navya0704/online-fraud-detection
 
-🎥 Demo (Optional)
-
 
 
 🛠️ Technologies Used
